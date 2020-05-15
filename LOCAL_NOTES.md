@@ -16,6 +16,10 @@ cd dist/angular-pwa
 http-server -p 8081
 ```
 
+# Links
+Official Angular Service Worker Docs: https://angular.io/guide/service-worker-intro
+Academind Resources on PWAs: https://academind.com/learn/progressive-web-apps
+
 # Git
 ```
 git init
